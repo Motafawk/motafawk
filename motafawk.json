@@ -1,5 +1,6 @@
 {
     "appVersion": "1.0.0",
+    "ip": "",
     "activeAds": "1",
     "stopApp": "0",
     "alarmTitle": "تحديث التطبيق",
