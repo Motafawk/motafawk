@@ -5,7 +5,7 @@
     "stopApp": "0",
     "alarmTitle": "تحديث التطبيق",
     "alarmBody": "تحديث التطبيق والبرامج قد يحتوي هاتفك على أكثر من 100 تطبيق مثبتة وتريد دائمًا تحديث جميع هذه التطبيقات على جهازك ، ولهذا لست بحاجة إلى التحقق عدة مرات من تحديث",
-    "url": "",
+    "url": "https://play.google.com/store/apps/details?id=com.mhma.motafawk",
     "img": "https://smaller-pictures.appspot.com/images/dreamstime_xxl_65780868_small.jpg",
     "okBut": "تحديث",
     "cancelBut": "الغاء"
